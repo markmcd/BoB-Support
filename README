@@ -1,0 +1,8 @@
+This is a -very- basic support app for iiNet's BoB modem,
+designed to run on the iPhone, targeting iOS4.1 & higher.
+
+Currently it uses the camera / photo gallery to identify
+the indicator panel on the modem.
+
+Next step is to analyze the panel for modem status & add
+some basic LAN troubleshooting.

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>BobSupport1ViewController.nib</key>
+		<data>
+		yNeNRczSYN5mBR0PYZbg27zpCnY=
+		</data>
+		<key>MainWindow.nib</key>
+		<data>
+		ogFjskkGsyXXapENsQ64ix+ylQQ=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>bob-fuzzy.png</key>
+		<data>
+		vljl1rP9Ll5yhForENztdoc8Cww=
+		</data>
+		<key>haarcascade.xml</key>
+		<data>
+		Br7KZ7NOIKwNkgFiu5ignBljaQ8=
+		</data>
+		<key>splashscreen.png</key>
+		<data>
+		N7xCA8DzlWloVqO5EHz7jheahns=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>.*</key>
+		<true/>
+		<key>Info.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>ResourceRules.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>100</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

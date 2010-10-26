@@ -1,0 +1,429 @@
+TBobSupport1
+v7
+r0
+t308998867.343965
+cCheck dependencies
+cCpResource build/Debug-iphoneos/BobSupport1.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app/Info.plist" BobSupport1-Info.plist
+cCompileXIB "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/MainWindow.xib"
+cCompileXIB "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/BobSupport1ViewController.xib"
+cCopyPNGFile "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app/splashscreen.png" splashscreen.png
+cProcessPCH /var/folders/WO/WOqn30xqEUaE1JTgExp-UU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/BobSupport1_Prefix-dcnqtfabvzxutxacjlyplvtsqeqp/BobSupport1_Prefix.pch.gch BobSupport1_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/WO/WOqn30xqEUaE1JTgExp-UU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/BobSupport1_Prefix-glizkwotymbxwjfagbrgivwjaasu/BobSupport1_Prefix.pch.gch BobSupport1_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv6/main.o "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv6/BobSupport1AppDelegate.o "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/Classes/BobSupport1AppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv6/BobSupport1ViewController.o "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/Classes/BobSupport1ViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv7/main.o "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv6/BobSupport1" normal armv6
+cCompileC build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv7/BobSupport1AppDelegate.o "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/Classes/BobSupport1AppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv7/BobSupport1ViewController.o "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/Classes/BobSupport1ViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv7/BobSupport1" normal armv7
+cCreateUniversalBinary "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app/BobSupport1" normal "armv6 armv7"
+cGenerateDSYMFile "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app.dSYM" "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app/BobSupport1"
+cTouch "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1.xcent"
+cCodeSign "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004C6DE9E30000000000000110
+t1282271715
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+c000000004C578FA900000000000001A7
+t1280806825
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+c000000004C578FA900000000000001E5
+t1280806825
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/BobSupport1ViewController.xib
+c000000004CBABAC9000000000000578F
+t1287305929
+s22415
+
+N/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/BobSupport1_Prefix.pch
+c000000004CB6F85D00000000000000BF
+t1287059549
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/Classes/BobSupport1AppDelegate.h
+c000000004CB6F85D00000000000001F2
+t1287059549
+s498
+i<UIKit/UIKit.h>
+
+N/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/Classes/BobSupport1AppDelegate.m
+c000000004CB6F85D0000000000000A9A
+t1287059549
+s2714
+i"BobSupport1AppDelegate.h"
+i"BobSupport1ViewController.h"
+
+N/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/Classes/BobSupport1ViewController.h
+c000000004CBAB9BA00000000000001C7
+t1287305658
+s455
+i<UIKit/UIKit.h>
+
+N/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/Classes/BobSupport1ViewController.m
+c000000004CBAB9C10000000000000760
+t1287305665
+s1888
+i"BobSupport1ViewController.h"
+
+N/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/MainWindow.xib
+c000000004CB6F85D0000000000004E59
+t1287059549
+s20057
+
+N/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1.xcent
+t1287306065
+s370
+
+N/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv6/BobSupport1
+t1287306064
+s22732
+
+N/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv6/BobSupport1.LinkFileList
+c000000004CBABB4A00000000000001C2
+t1287306058
+s450
+
+N/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv6/BobSupport1AppDelegate.o
+t1287306063
+s47652
+
+N/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv6/BobSupport1ViewController.o
+t1287306064
+s50400
+
+N/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv6/main.o
+t1287306063
+s6472
+
+N/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv7/BobSupport1
+t1287306064
+s22732
+
+N/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv7/BobSupport1.LinkFileList
+c000000004CBABB4A00000000000001C2
+t1287306058
+s450
+
+N/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv7/BobSupport1AppDelegate.o
+t1287306064
+s47568
+
+N/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv7/BobSupport1ViewController.o
+t1287306064
+s50244
+
+N/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv7/main.o
+t1287306064
+s6456
+
+N/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app
+t1287306067
+s374
+
+N/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app.dSYM
+t1287306065
+s102
+
+N/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app/BobSupport1
+t1287306064
+s51404
+
+N/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app/BobSupport1ViewController.nib
+t1287306060
+s2623
+
+N/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app/Info.plist
+t1287306058
+s742
+
+N/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app/MainWindow.nib
+t1287306060
+s1689
+
+N/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app/PkgInfo
+t1287306058
+s8
+
+N/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app/ResourceRules.plist
+t1287306058
+s485
+
+N/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app/splashscreen.png
+t1287306061
+s10174
+
+N/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/main.m
+c000000004CB6F85D0000000000000168
+t1287059549
+s360
+i<UIKit/UIKit.h>
+
+N/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/splashscreen.png
+c000000004CBA942400000000000021FF
+t1287296036
+s8703
+
+N/var/folders/WO/WOqn30xqEUaE1JTgExp-UU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/BobSupport1_Prefix-dcnqtfabvzxutxacjlyplvtsqeqp/BobSupport1_Prefix.pch.gch
+t1287306063
+s9831984
+
+N/var/folders/WO/WOqn30xqEUaE1JTgExp-UU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/BobSupport1_Prefix-glizkwotymbxwjfagbrgivwjaasu/BobSupport1_Prefix.pch.gch
+t1287306063
+s10294832
+
+NBobSupport1-Info.plist
+c000000004CB6F85D000000000000038D
+t1287059549
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308998858#308998858#0(200"[BWARN]Code Sign warning: code-signing identity 'iPhone Developer' matches multiple identities : 'iPhone Developer', 'iPhone Developer: Mark McDonald (5C2C499SKH)' -- 'iPhone Developer' will be used.1(22@192"Code Sign warning: code-signing identity 'iPhone Developer' matches multiple identities : 'iPhone Developer', 'iPhone Developer: Mark McDonald (5C2C499SKH)' -- 'iPhone Developer' will be used.308998858#18446744073709551615#0#0(1@0"0(0#1#0"8611374688#0"0#
+
+CCodeSign "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app"
+s308998865.358164
+e308998867.343752
+r1
+xCodeSign
+x/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app
+lSLF07#2@45"CodeSign build/Debug-iphoneos/BobSupport1.app308998865#308998867#0(0"0(0#0#88"/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app8620341024#701"    cd "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer" "--resource-rules=/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app/ResourceRules.plist" --entitlements "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1.xcent" "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app"0#
+
+CCompileC build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv6/BobSupport1AppDelegate.o "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/Classes/BobSupport1AppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308998863.576287
+e308998863.873881
+r1
+xCompileC
+xbuild/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv6/BobSupport1AppDelegate.o
+x/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/Classes/BobSupport1AppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/Classes/BobSupport1AppDelegate.m308998863#308998863#0(0"0(0#0#84"/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/Classes/BobSupport1AppDelegate.m8639561056#2013"    cd "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1-generated-files.hmap" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1-own-target-headers.hmap" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1-all-target-headers.hmap" -iquote "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1-project-headers.hmap" "-F/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/include" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/DerivedSources/armv6" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/DerivedSources" -include /var/folders/WO/WOqn30xqEUaE1JTgExp-UU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/BobSupport1_Prefix-dcnqtfabvzxutxacjlyplvtsqeqp/BobSupport1_Prefix.pch -c "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/Classes/BobSupport1AppDelegate.m" -o "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv6/BobSupport1AppDelegate.o"0#
+
+CCompileC build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv6/BobSupport1ViewController.o "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/Classes/BobSupport1ViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308998863.790548
+e308998864.038266
+r1
+xCompileC
+xbuild/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv6/BobSupport1ViewController.o
+x/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/Classes/BobSupport1ViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/Classes/BobSupport1ViewController.m308998863#308998864#0(0"0(0#0#87"/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/Classes/BobSupport1ViewController.m8620449216#2019"    cd "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1-generated-files.hmap" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1-own-target-headers.hmap" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1-all-target-headers.hmap" -iquote "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1-project-headers.hmap" "-F/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/include" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/DerivedSources/armv6" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/DerivedSources" -include /var/folders/WO/WOqn30xqEUaE1JTgExp-UU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/BobSupport1_Prefix-dcnqtfabvzxutxacjlyplvtsqeqp/BobSupport1_Prefix.pch -c "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/Classes/BobSupport1ViewController.m" -o "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv6/BobSupport1ViewController.o"0#
+
+CCompileC build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv6/main.o "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308998863.574238
+e308998863.790371
+r1
+xCompileC
+xbuild/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv6/main.o
+x/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/main.m308998863#308998863#0(0"0(0#0#58"/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/main.m8647898496#1969"    cd "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1-generated-files.hmap" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1-own-target-headers.hmap" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1-all-target-headers.hmap" -iquote "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1-project-headers.hmap" "-F/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/include" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/DerivedSources/armv6" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/DerivedSources" -include /var/folders/WO/WOqn30xqEUaE1JTgExp-UU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/BobSupport1_Prefix-dcnqtfabvzxutxacjlyplvtsqeqp/BobSupport1_Prefix.pch -c "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/main.m" -o "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv6/main.o"0#
+
+CCompileC build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv7/BobSupport1AppDelegate.o "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/Classes/BobSupport1AppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s308998864.064257
+e308998864.251433
+r1
+xCompileC
+xbuild/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv7/BobSupport1AppDelegate.o
+x/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/Classes/BobSupport1AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/Classes/BobSupport1AppDelegate.m308998864#308998864#0(0"0(0#0#84"/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/Classes/BobSupport1AppDelegate.m8639460576#2013"    cd "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1-generated-files.hmap" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1-own-target-headers.hmap" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1-all-target-headers.hmap" -iquote "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1-project-headers.hmap" "-F/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/include" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/DerivedSources/armv7" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/DerivedSources" -include /var/folders/WO/WOqn30xqEUaE1JTgExp-UU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/BobSupport1_Prefix-glizkwotymbxwjfagbrgivwjaasu/BobSupport1_Prefix.pch -c "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/Classes/BobSupport1AppDelegate.m" -o "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv7/BobSupport1AppDelegate.o"0#
+
+CCompileC build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv7/BobSupport1ViewController.o "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/Classes/BobSupport1ViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s308998864.251615
+e308998864.459236
+r1
+xCompileC
+xbuild/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv7/BobSupport1ViewController.o
+x/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/Classes/BobSupport1ViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/Classes/BobSupport1ViewController.m308998864#308998864#0(0"0(0#0#87"/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/Classes/BobSupport1ViewController.m8614670816#2019"    cd "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1-generated-files.hmap" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1-own-target-headers.hmap" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1-all-target-headers.hmap" -iquote "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1-project-headers.hmap" "-F/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/include" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/DerivedSources/armv7" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/DerivedSources" -include /var/folders/WO/WOqn30xqEUaE1JTgExp-UU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/BobSupport1_Prefix-glizkwotymbxwjfagbrgivwjaasu/BobSupport1_Prefix.pch -c "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/Classes/BobSupport1ViewController.m" -o "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv7/BobSupport1ViewController.o"0#
+
+CCompileC build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv7/main.o "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s308998863.874105
+e308998864.064077
+r1
+xCompileC
+xbuild/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv7/main.o
+x/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/main.m308998863#308998864#0(0"0(0#0#58"/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/main.m8651096288#1969"    cd "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1-generated-files.hmap" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1-own-target-headers.hmap" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1-all-target-headers.hmap" -iquote "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1-project-headers.hmap" "-F/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/include" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/DerivedSources/armv7" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/DerivedSources" -include /var/folders/WO/WOqn30xqEUaE1JTgExp-UU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/BobSupport1_Prefix-glizkwotymbxwjfagbrgivwjaasu/BobSupport1_Prefix.pch -c "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/main.m" -o "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv7/main.o"0#
+
+CCompileXIB "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/BobSupport1ViewController.xib"
+s308998858.401930
+e308998860.562532
+r1
+xCompileXIB
+x/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/BobSupport1ViewController.xib
+lSLF07#2@40"CompileXIB BobSupport1ViewController.xib308998858#308998860#0(0"0(0#0#81"/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/BobSupport1ViewController.xib8611230688#621"    cd "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app/BobSupport1ViewController.nib" "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/BobSupport1ViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/MainWindow.xib"
+s308998858.400450
+e308998860.507093
+r1
+xCompileXIB
+x/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib308998858#308998860#0(0"0(0#0#66"/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/MainWindow.xib8611556096#591"    cd "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app/MainWindow.nib" "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/MainWindow.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCopyPNGFile "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app/splashscreen.png" splashscreen.png
+s308998860.507394
+e308998861.307790
+r1
+xCopyPNGFile
+x/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app/splashscreen.png
+xsplashscreen.png
+lSLF07#2@82"CopyPNGFile build/Debug-iphoneos/BobSupport1.app/splashscreen.png splashscreen.png308998860#308998861#0(0"0(0#0#68"/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/splashscreen.png8652410144#621"    cd "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/splashscreen.png" "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app/splashscreen.png"0#
+
+CCpResource build/Debug-iphoneos/BobSupport1.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+s308998858.266109
+e308998858.400299
+r1
+xCpResource
+xbuild/Debug-iphoneos/BobSupport1.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist308998858#308998858#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist4923330986020728832#514"    cd "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app"0#
+
+CCreateUniversalBinary "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app/BobSupport1" normal "armv6 armv7"
+s308998864.903274
+e308998864.963664
+r1
+xCreateUniversalBinary
+x/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app/BobSupport1
+xnormal
+xarmv6 armv7
+lSLF07#2@91"CreateUniversalBinary build/Debug-iphoneos/BobSupport1.app/BobSupport1 normal "armv6 armv7"308998864#308998864#0(0"0(0#0#63"/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/armv6 armv78650942016#610"    cd "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv6/BobSupport1" "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv7/BobSupport1" -output "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app/BobSupport1"0#
+
+CGenerateDSYMFile "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app.dSYM" "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app/BobSupport1"
+s308998864.963971
+e308998865.270753
+r1
+xGenerateDSYMFile
+x/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app.dSYM
+x/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app/BobSupport1
+lSLF07#2@107"GenerateDSYMFile build/Debug-iphoneos/BobSupport1.app.dSYM build/Debug-iphoneos/BobSupport1.app/BobSupport1308998864#308998865#0(0"0(0#0#100"/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app/BobSupport18649642880#419"    cd "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app/BobSupport1" -o "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app.dSYM"0#
+
+CLd "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv6/BobSupport1" normal armv6
+s308998864.038430
+e308998864.756563
+r1
+xLd
+x/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv6/BobSupport1
+xnormal
+xarmv6
+lSLF07#2@146"Link /Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv6/BobSupport1308998864#308998864#0(0"0(0#0#0"8648640224#958"    cd "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk "-L/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos" "-F/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos" -filelist "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv6/BobSupport1.LinkFileList" -dead_strip -miphoneos-version-min=4.1 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv6/BobSupport1"0#
+
+CLd "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv7/BobSupport1" normal armv7
+s308998864.459398
+e308998864.903087
+r1
+xLd
+x/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv7/BobSupport1
+xnormal
+xarmv7
+lSLF07#2@146"Link /Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv7/BobSupport1308998864#308998864#0(0"0(0#0#0"8651276064#958"    cd "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk "-L/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos" "-F/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos" -filelist "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv7/BobSupport1.LinkFileList" -dead_strip -miphoneos-version-min=4.1 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/Objects-normal/armv7/BobSupport1"0#
+
+CProcessInfoPlistFile "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app/Info.plist" BobSupport1-Info.plist
+s308998858.275201
+e308998858.338264
+r1
+xProcessInfoPlistFile
+x/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app/Info.plist
+xBobSupport1-Info.plist
+lSLF07#2@30"Process BobSupport1-Info.plist308998858#308998858#0(0"0(0#0#74"/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/BobSupport1-Info.plist8620283392#638"    cd "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility BobSupport1-Info.plist -genpkginfo "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app/ResourceRules.plist" -o "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app/Info.plist"0#
+
+CProcessPCH /var/folders/WO/WOqn30xqEUaE1JTgExp-UU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/BobSupport1_Prefix-dcnqtfabvzxutxacjlyplvtsqeqp/BobSupport1_Prefix.pch.gch BobSupport1_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s308998861.307992
+e308998863.574053
+r1
+xProcessPCH
+x/var/folders/WO/WOqn30xqEUaE1JTgExp-UU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/BobSupport1_Prefix-dcnqtfabvzxutxacjlyplvtsqeqp/BobSupport1_Prefix.pch.gch
+xBobSupport1_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile BobSupport1_Prefix.pch308998861#308998863#0(0"0(0#0#74"/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/BobSupport1_Prefix.pch8651096672#1848"    cd "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1-generated-files.hmap" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1-own-target-headers.hmap" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1-all-target-headers.hmap" -iquote "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1-project-headers.hmap" "-F/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/include" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/DerivedSources/armv6" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/DerivedSources" -c "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/BobSupport1_Prefix.pch" -o /var/folders/WO/WOqn30xqEUaE1JTgExp-UU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/BobSupport1_Prefix-dcnqtfabvzxutxacjlyplvtsqeqp/BobSupport1_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/WO/WOqn30xqEUaE1JTgExp-UU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/BobSupport1_Prefix-glizkwotymbxwjfagbrgivwjaasu/BobSupport1_Prefix.pch.gch BobSupport1_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s308998861.309632
+e308998863.408296
+r1
+xProcessPCH
+x/var/folders/WO/WOqn30xqEUaE1JTgExp-UU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/BobSupport1_Prefix-glizkwotymbxwjfagbrgivwjaasu/BobSupport1_Prefix.pch.gch
+xBobSupport1_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile BobSupport1_Prefix.pch308998861#308998863#0(0"0(0#0#74"/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/BobSupport1_Prefix.pch8650043776#1848"    cd "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1-generated-files.hmap" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1-own-target-headers.hmap" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1-all-target-headers.hmap" -iquote "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1-project-headers.hmap" "-F/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/include" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/DerivedSources/armv7" "-I/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/DerivedSources" -c "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/BobSupport1_Prefix.pch" -o /var/folders/WO/WOqn30xqEUaE1JTgExp-UU+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/BobSupport1_Prefix-glizkwotymbxwjfagbrgivwjaasu/BobSupport1_Prefix.pch.gch0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1.xcent"
+s308998865.279474
+e308998865.357947
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+x/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1.xcent
+lSLF07#2@187"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1.xcent308998865#308998865#0(0"0(0#0#126"/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1.xcent8621372000#474"    cd "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist -entitlements -format xml -o "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/BobSupport1.build/Debug-iphoneos/BobSupport1.build/BobSupport1.xcent"0#
+
+CTouch "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app"
+s308998865.270926
+e308998865.279301
+r1
+xTouch
+x/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app
+lSLF07#2@94"Touch /Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app308998865#308998865#0(0"0(0#0#0"8639323904#298"    cd "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/markm/Dropbox/Work/BoB AR/iPhone/BobSupport1/build/Debug-iphoneos/BobSupport1.app"0#
+

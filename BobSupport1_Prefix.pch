@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'BobSupport1' target in the 'BobSupport1' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
